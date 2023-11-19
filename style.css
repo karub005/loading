@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+#icon{
+  border-radius: 50%;
+}
+
 body {
   background-color: #ecf0f1;
   background-color: #2c3e50;
